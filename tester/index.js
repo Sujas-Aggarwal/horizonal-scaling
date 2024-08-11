@@ -8,6 +8,6 @@ const ServerCall = () => {
         }).catch();
 };
 let i = 0;
-for (; i < 1000; i++) {
+for (; i < 100; i++) {
     ServerCall();
 }
