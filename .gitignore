@@ -1,2 +1,4 @@
 node_modules
 requests.json
+server1/requests.json
+server2/requests.json
